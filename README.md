@@ -1,4 +1,5 @@
 # DOTFILES_2026_V1
+Mi configuraciones y herramientas para este 2026 configuradas a mis necesidades
 
 ![Dell Precision 5520](./assets/dell.png)
 
@@ -9,12 +10,12 @@
 - GPU: Intel HD Graphics 630 (integrada)
 - GPU: Nvidia Quadro M1200 (dedicada)
 - RAM: 16 GiB DDR4
-- Disk: SSD 512 GiB
+- DISCO: SSD 512 GiB
 
-## Sistema Operativo 🐧
+## OS 🐧
 
-- Distro principal: Artix Linux (init OpenRC)
-- Kernel: linux-lts + headers correspondientes
+- Distro: Artix Linux (runit)
+- Kernel: linux-zen 
 - Gestor de paquetes: pacman + yay
 - Compositor: DWL/Wayland
 
