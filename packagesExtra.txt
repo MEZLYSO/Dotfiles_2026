@@ -1,3 +1,5 @@
 zoxide
 lsd
 fish
+neovim
+qutebrowser
