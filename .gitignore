@@ -1,0 +1,5 @@
+mew/mew
+mew/config.h
+mew/*.o
+mew/*-protocol.c
+mew/*-protocol.h
