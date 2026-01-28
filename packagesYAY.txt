@@ -3,3 +3,4 @@ android-file-transfer
 swaylock-effects
 unzip
 brave-bin
+croc-bin

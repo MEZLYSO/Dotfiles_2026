@@ -2,6 +2,7 @@ zoxide
 lsd
 fish
 neovim
+tmux
 qutebrowser
 fastfetch
 htop

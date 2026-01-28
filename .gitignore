@@ -8,3 +8,4 @@ slstatus/config.h
 slstatus/*.o
 slstatus/components/*.o
 slstatus/*.tar.gz
+backgrounds/*
